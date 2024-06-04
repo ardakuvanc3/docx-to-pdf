@@ -43,13 +43,13 @@ main.py dosyasını çalıştırın:
 1. Dönüştürmek istediğiniz dosyanın yolunu girin:
 
    ```sh
-    C:\Users\ardak\OneDrive\Masaüstü\example.txt
+    C:\Users\Masaüstü\example.txt
 
 
 2. Kaydedilecek PDF dosyasının yolunu girin:
 
    ```sh
-    C:\Users\ardak\OneDrive\Masaüstü\output.pdf
+    C:\Users\Masaüstü\output.pdf
 
 ### Katkıda Bulunma
 Katkıda bulunmak isterseniz, lütfen bir pull request açın veya bir issue oluşturun.
