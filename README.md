@@ -43,23 +43,20 @@ main.py dosyasını çalıştırın:
 1. Dönüştürmek istediğiniz dosyanın yolunu girin:
 
    ```sh
-
     C:\Users\ardak\OneDrive\Masaüstü\example.txt
 
 
 2. Kaydedilecek PDF dosyasının yolunu girin:
 
    ```sh
-
     C:\Users\ardak\OneDrive\Masaüstü\output.pdf
-
 
 ### Katkıda Bulunma
 Katkıda bulunmak isterseniz, lütfen bir pull request açın veya bir issue oluşturun.
 
 ### Lisans
-Bu proje MIT Lisansı ile lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasına bakın.
+Bu proje MIT Lisansı ile lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakın.
 
 
-Bu adımları takip ederek projenizi GitHub'a yükleyebilir ve README dosyası ile projeyi dokümante edebilirsiniz. Eğer başka bir yardıma ihtiyacınız olursa lütfen bana bildirin!
+Bu adımları takip ederek projenizi GitHub'a yükleyebilir ve `README` dosyası ile projeyi dokümante edebilirsiniz. Eğer başka bir yardıma ihtiyacınız olursa lütfen bana bildirin!
 
