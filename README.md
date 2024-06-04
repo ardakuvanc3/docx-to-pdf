@@ -2,7 +2,7 @@
 
 Bu proje, `.txt` ve `.docx` dosyalarını PDF formatına dönüştürmeyi ve terminal üzerinden girilen metni PDF olarak kaydetmeyi sağlayan bir Python uygulamasıdır.
 
-# Gereksinimler
+## Gereksinimler
 
 - Python 3.x
 - Gerekli Python kütüphaneleri:
@@ -10,7 +10,7 @@ Bu proje, `.txt` ve `.docx` dosyalarını PDF formatına dönüştürmeyi ve ter
   - `python-docx`
 
 
-# Kurulum
+## Kurulum
 
 1. Python ve pip'in sisteminizde kurulu olduğundan emin olun.
 2. Gerekli Python kütüphanelerini yüklemek için:
